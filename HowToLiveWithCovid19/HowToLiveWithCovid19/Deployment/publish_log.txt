@@ -1,0 +1,47 @@
+
+Welcome to .NET Core 3.1!
+---------------------
+SDK Version: 3.1.301
+
+Telemetry
+---------
+The .NET Core tools collect usage data in order to help us improve your experience. The data is anonymous. It is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
+
+Read more about .NET Core CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
+
+----------------
+Explore documentation: https://aka.ms/dotnet-docs
+Report issues and find source on GitHub: https://github.com/dotnet/core
+Find out what's new: https://aka.ms/dotnet-whats-new
+Learn about the installed HTTPS developer cert: https://aka.ms/aspnet-core-https
+Use 'dotnet --help' to see available commands or visit: https://aka.ms/dotnet-cli-docs
+Write your first app: https://aka.ms/first-net-core-app
+--------------------------------------------------------------------------------------
+Microsoft (R) Build Engine version 16.6.0+5ff7b0c9e for .NET Core
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+{
+  "active": true,
+  "author": "N/A",
+  "author_email": "N/A",
+  "complete": true,
+  "deployer": "ZipDeploy",
+  "end_time": "2020-06-18T21:28:39.0097202Z",
+  "id": "d700ac53d5644c60a9f457c167af1105",
+  "is_readonly": true,
+  "is_temp": false,
+  "last_success_end_time": "2020-06-18T21:28:39.0097202Z",
+  "log_url": "https://howtolivewithcovid19-d6gy72k.scm.azurewebsites.net/api/deployments/latest/log",
+  "message": "Created via a push deployment",
+  "progress": "",
+  "provisioningState": null,
+  "received_time": "2020-06-18T21:28:30.121586Z",
+  "site_name": "HowToLiveWithCovid19-d6gy72k",
+  "start_time": "2020-06-18T21:28:30.9570044Z",
+  "status": 4,
+  "status_text": "",
+  "url": "https://howtolivewithcovid19-d6gy72k.scm.azurewebsites.net/api/deployments/latest"
+}
+Getting scm site credentials for zip deployment
+Starting zip deployment. This operation can take a while to complete ...
+Deployment endpoint responded with status code 202

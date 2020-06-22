@@ -1,0 +1,95 @@
+Label	Weight	Text
+l_General	1	shut up be quiet
+l_General	1	repeat please
+l_General	1	select lower one
+l_General	1	get back to the last one
+l_General	1	please help
+l_General	1	read this page out loud
+l_General	1	choose the bottom left
+l_General	1	can you read it
+l_General	1	cancel it
+l_General	1	again
+l_General	1	forget about it
+l_General	1	i would like you to read that for me
+l_General	1	i need to hear this page
+l_General	1	i want the right one
+l_General	1	choose top right
+l_General	1	i didn't hear repeat again
+l_General	1	cancel cancel
+l_General	1	log out
+l_General	1	no stop
+l_General	1	come on stop
+l_General	1	i want to choose the right
+l_General	1	can you read that
+l_General	1	no no no no stop talking
+l_General	1	read me this page
+l_General	1	ok for now
+l_General	1	what's up next
+l_General	1	just cancel
+l_General	1	i'm john jackson.
+l_General	1	back to last step
+l_General	1	it's finished
+l_General	1	no no
+l_General	1	nothing never mind
+l_General	1	cancel that
+l_General	1	read aloud
+l_General	1	opt for the lower choice
+l_General	1	reject it
+l_General	1	back to
+l_General	1	please read this page out loud
+l_General	1	i said stop
+l_General	1	select the lower one
+l_General	1	read it aloud
+l_General	1	can you help me
+l_General	1	clear and start again
+l_General	1	get back to last
+l_General	1	what's more
+l_General	1	what before that
+l_General	1	opt for a random one
+l_General	1	perfect thank you
+l_General	1	i need some assist
+l_General	1	select the last choice
+l_General	1	do it
+l_General	1	i want none of them
+l_General	1	contact support
+l_General	1	previous one please
+l_General	1	go to the next one
+l_General	1	read that
+l_General	1	sounds great
+l_General	1	none of them thank you
+l_General	1	of course
+l_General	1	quit
+l_General	1	open help
+l_General	1	no way
+l_General	1	back to the last one
+l_General	1	anything
+l_General	1	customer service
+l_General	1	no more no
+l_General	1	turn off stop
+l_General	1	just be
+l_General	1	return to the previous one
+l_General	1	please read my latest email
+l_General	1	start it over
+l_General	1	hey stop
+l_General	1	sounds perfect
+l_General	1	shut up
+l_General	1	go back to previous
+l_General	1	not quite
+l_General	1	show the next 4 items
+l_General	1	go forward
+l_General	1	read this for me please
+l_General	1	it is jackson .
+l_General	1	read it please
+l_General	1	go previously
+l_General	1	i want the lower choice
+l_General	1	i need manual customer service
+l_General	1	no no go back to
+l_General	1	reject
+l_General	1	please read this to me
+l_General	1	vocalize what s on the page
+l_General	1	i love you to stop talking
+l_General	1	oh cancel
+l_General	1	restart it
+None	1	start
+q_Faq	1	What is a Virtual Assistant
+q_Faq	1	What can the ToDo Skill do

@@ -1,0 +1,2399 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "l_General"
+    },
+    {
+      "name": "q_Faq"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "i need real human help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "is there any help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please read it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i need support",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose the fourth one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read what is currently on the screen to me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "human service",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "baby just be quiet",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select the right one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for the second",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "they look bad, can you give me other choices",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "yeah go ahead",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "would you read that to me please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i like the top right one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read to me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read the page to me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read this page aloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "none none",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no not that one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "none none of them",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "cancel app",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "it's alice anderson!",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no cancel cancel",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "cancelled",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for the left one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose the left one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "show more",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go to the previous",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose the upper left choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "don't do that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sign out",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go away",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "forget me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "end it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select third",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "neither one of them",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "back please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i like the bottom one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no leave it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for left",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sure does",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose no.2",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose the first one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read page outloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "right yes",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose bottom one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "logout",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i have not heard",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please read this",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read my to list",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "thank you very much",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "start again",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "yeah",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "anyone is fine",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "move to the next one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read it to me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go for it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no go back to",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read it outloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go back to last one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "previous one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose second one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i like second one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "not right now",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no doubt",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read that out loud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose the upper right one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i am finished",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "neither one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read text aloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i am done",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i reject",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "nothing much",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "back",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "is there any person i can talk to",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no no cancel",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "tell me about the information on the screen",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "neither of those",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "would you please read that for me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "start over it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go back to the last one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i like the upper right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "cancel never mind",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no no no",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "how to do it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no cancel that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "any one is ok",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "get back",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what is the previous",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i need some help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read this page to me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to talk to a real human",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "show the next one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "be quiet now",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "all finished",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "oh my god shut up",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "canceled",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "show me the previous one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "nowhere just be quiet",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "tell me the current text on screen",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read aloud the current text onscreen",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please read me the page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "return",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "it's done",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sure yes",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "dismiss",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want the fourth choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose lower right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "make a reading of this page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want more",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want the left",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "speak of what is on this page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sorry",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "last step",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose last one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "is there any real human",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "this is john w.smith .",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "shut up quiet",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "give me some help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read this page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "give me more",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "can i talk to a person",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "done",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "pardon",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "bring the previous one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "nope",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "quiet",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for any of it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "ok",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "ya",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read the words on this page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "submit",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select a random one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i don't want to select any one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "turn off",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "never mind stop",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "restart",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "say again please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want bottom",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read outloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "all set",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i like the third",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "just be quiet",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "submit it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for last",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "not",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose the lower choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sure is",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "finish",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "get back please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "ok stop stop",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i like the third choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go back",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please begin again",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read the page out loud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "nothing please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want right one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "confirm",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "none of those",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please return",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for first one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "yeah good",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no later",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i like second",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose the first choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "start reading this",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "not exactly",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i don't want to choose any one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go back please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "show the next two options",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "reveal previous",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read text",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "shut your mouth",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "who can help me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "neither thank you",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go to the next three items",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no never mind",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select fourth one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "shut up be quiet",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "repeat please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select lower one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "get back to the last one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read this page out loud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose the bottom left",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "can you read it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "cancel it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "again",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "forget about it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i would like you to read that for me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i need to hear this page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want the right one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose top right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i didn't hear repeat again",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "cancel cancel",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "log out",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no stop",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "come on stop",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose the right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "can you read that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no no no no stop talking",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read me this page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "ok for now",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what's up next",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "just cancel",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i'm john jackson.",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "back to last step",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "it's finished",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no no",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "nothing never mind",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "cancel that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read aloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for the lower choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "reject it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "back to",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please read this page out loud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i said stop",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select the lower one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read it aloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "can you help me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "clear and start again",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "get back to last",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what's more",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what before that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for a random one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "perfect thank you",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i need some assist",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select the last choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "do it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want none of them",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "contact support",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "previous one please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go to the next one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sounds great",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "none of them thank you",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "of course",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "quit",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "open help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no way",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "back to the last one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "anything",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "customer service",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no more no",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "turn off stop",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "just be",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "return to the previous one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please read my latest email",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "start it over",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "hey stop",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sounds perfect",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "shut up",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go back to previous",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "not quite",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "show the next 4 items",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go forward",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read this for me please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "it is jackson .",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read it please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go previously",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want the lower choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i need manual customer service",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no no go back to",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "reject",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please read this to me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "vocalize what s on the page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i love you to stop talking",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "oh cancel",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "restart it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go to the previous one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please do nothing",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select no.5",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i like upper right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i need to go to the next one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select upper",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please read this out loud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "can you read that for me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose anyone",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want neither of them",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what's next",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "my god shut up",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "never mind cancel",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read file aloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "show previous",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "very good",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "it finished",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want the first",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read sentence out loud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "fine",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what does the page say",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "say again",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please read this page aloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "that is correct",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose one of it randomly",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select a random choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sounds good thank you",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want the second one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "never mind cancel that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "neither",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "any of it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read the page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "back to last",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sorry, don't do it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "finished",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "can you help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "exit stop",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "negative",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "god shut up",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "not now",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "that sounds good",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "that's fine",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "turn over a new leaf",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no no thank you",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "oh yes",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "detail aloud what that says",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "is there any real person",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "it's fine",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no thanks",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "tell more",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no cancel",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go back to",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please read",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "that right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i mean stop listening",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sure",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "please read this page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "say that again",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select any",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "show earlier",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "more",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no no cancel it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "okay",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what about next one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for the second choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what did you say",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "tell me more",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for the last one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "start over",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "go back on",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for right one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i'm lily",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "oh yeah",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose the fourth",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sounds good",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read it out loud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "nobody cares stop talking",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "never",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i don't like it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "thank you yes",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "show the next 3",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "displays more",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "oh no",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "perfect",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose last",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "contact the customer service",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "none of these",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no i don't want that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to talk to a human",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read page aloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sounds good thanks",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "how can i get it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "hey read that for me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "would you read that out loud please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what about the third one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what about the last",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "that is right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "never mind",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i like the first one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sounds good to me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "yeah bro",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want fourth",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no reject it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "reveal more",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "could you start it over",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "next",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "could you tell me what that says",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "don't do that anymore",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i am anna",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "show the previous one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "repeat",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "repeat that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "not that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "signout",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "yeah cool",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read page",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no be quiet now",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "can you you read page aloud",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no shut up",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select any choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "opt for the right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no wrong",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "display more",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i'm sure",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "yeah go for it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "oh don't do that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select any of it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what's before that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "great",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i need help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what's after that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want left",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "yeah buddy",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want third one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "sure thing",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no thank you",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "yeah baby",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "yes",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what was that again",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no cancel it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "not even close",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "just cancel it",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select the bottom choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "could you say it again",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what's the next 2",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "my name is bill jones",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read the text to me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "stop talking",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "quiet now",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read all on the screen to me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "reveal previously",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "stop please",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose the last choice",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i like left one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "do nothing",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "be quiet",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select the first",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "call me steve !",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select the third one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "select the upper right",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "i want to choose third",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "none of them",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "cancel",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "nerver mind",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "none",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "talk to a human",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "any help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "end",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "some help",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what after that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "display previously",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "not at all",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "this is good",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "no be quiet",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "exit exit",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "choose top right one",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "finished with",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "and after that",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "read the page onscreen to me",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "show me the next",
+      "intent": "l_General",
+      "entities": []
+    },
+    {
+      "text": "what's new",
+      "intent": "q_Faq",
+      "entities": []
+    },
+    {
+      "text": "what can the point of interest skill do",
+      "intent": "q_Faq",
+      "entities": []
+    },
+    {
+      "text": "what is a skill",
+      "intent": "q_Faq",
+      "entities": []
+    },
+    {
+      "text": "what can the email skill do",
+      "intent": "q_Faq",
+      "entities": []
+    },
+    {
+      "text": "what is a virtual assistant",
+      "intent": "q_Faq",
+      "entities": []
+    },
+    {
+      "text": "what can the todo skill do",
+      "intent": "q_Faq",
+      "entities": []
+    },
+    {
+      "text": "how do i raise a bug",
+      "intent": "q_Faq",
+      "entities": []
+    },
+    {
+      "text": "what can the calendar skill do",
+      "intent": "q_Faq",
+      "entities": []
+    },
+    {
+      "text": "i want them all",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i want to all of them",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "start",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "all of them",
+      "intent": "None",
+      "entities": []
+    }
+  ],
+  "versionId": "Dispatch",
+  "name": "HowToLiveWithCovid19en-us_Dispatch",
+  "desc": "Dispatch model for HowToLiveWithCovid19en-us_Dispatch",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [
+    {
+      "name": "PersonName.Any",
+      "roles": [],
+      "explicitList": []
+    }
+  ],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "(it's|it is|this is) {PersonName.Any}[.]",
+      "intent": "l_General"
+    },
+    {
+      "pattern": "(i'm|i am) {PersonName.Any}[.]",
+      "intent": "l_General"
+    },
+    {
+      "pattern": "([you can]|[please]) call me {PersonName.Any}[.]",
+      "intent": "l_General"
+    },
+    {
+      "pattern": "my name is {PersonName.Any}[.]",
+      "intent": "l_General"
+    }
+  ],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    },
+    {
+      "name": "UseAllTrainingData",
+      "value": "true"
+    }
+  ]
+}

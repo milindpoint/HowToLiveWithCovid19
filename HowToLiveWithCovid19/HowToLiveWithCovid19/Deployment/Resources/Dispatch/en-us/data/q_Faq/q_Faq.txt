@@ -1,0 +1,8 @@
+What is a Virtual Assistant
+What is a Skill
+What can the Calendar Skill do
+What can the Email Skill do
+What can the Point of Interest Skill do
+What can the ToDo Skill do
+What's New
+How do I raise a bug

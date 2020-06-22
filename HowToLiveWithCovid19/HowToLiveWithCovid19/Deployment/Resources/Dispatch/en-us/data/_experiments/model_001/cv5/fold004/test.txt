@@ -1,0 +1,95 @@
+Label	Weight	Text
+l_General	1	read page aloud
+l_General	1	sounds good thanks
+l_General	1	how can i get it
+l_General	1	hey read that for me
+l_General	1	would you read that out loud please
+l_General	1	what about the third one
+l_General	1	what about the last
+l_General	1	that is right
+l_General	1	never mind
+l_General	1	i like the first one
+l_General	1	sounds good to me
+l_General	1	yeah bro
+l_General	1	i want fourth
+l_General	1	no reject it
+l_General	1	reveal more
+l_General	1	could you start it over
+l_General	1	next
+l_General	1	could you tell me what that says
+l_General	1	don't do that anymore
+l_General	1	i am anna
+l_General	1	show the previous one
+l_General	1	repeat
+l_General	1	repeat that
+l_General	1	not that
+l_General	1	signout
+l_General	1	yeah cool
+l_General	1	read page
+l_General	1	no be quiet now
+l_General	1	can you you read page aloud
+l_General	1	no shut up
+l_General	1	select any choice
+l_General	1	opt for the right
+l_General	1	no wrong
+l_General	1	display more
+l_General	1	i'm sure
+l_General	1	yeah go for it
+l_General	1	oh don't do that
+l_General	1	select any of it
+l_General	1	what's before that
+l_General	1	great
+l_General	1	i need help
+l_General	1	what's after that
+l_General	1	i want left
+l_General	1	yeah buddy
+l_General	1	i want third one
+l_General	1	sure thing
+l_General	1	no thank you
+l_General	1	yeah baby
+l_General	1	yes
+l_General	1	what was that again
+l_General	1	no cancel it
+l_General	1	not even close
+l_General	1	just cancel it
+l_General	1	select the bottom choice
+l_General	1	could you say it again
+l_General	1	what's the next 2
+l_General	1	my name is bill jones
+l_General	1	read the text to me
+l_General	1	stop talking
+l_General	1	quiet now
+l_General	1	read all on the screen to me
+l_General	1	reveal previously
+l_General	1	stop please
+l_General	1	i want to choose the last choice
+l_General	1	i like left one
+l_General	1	do nothing
+l_General	1	be quiet
+l_General	1	select the first
+l_General	1	call me steve !
+l_General	1	select the third one
+l_General	1	select the upper right
+l_General	1	i want to choose third
+l_General	1	none of them
+l_General	1	cancel
+l_General	1	nerver mind
+l_General	1	none
+l_General	1	talk to a human
+l_General	1	any help
+l_General	1	end
+l_General	1	some help
+l_General	1	what after that
+l_General	1	display previously
+l_General	1	not at all
+l_General	1	this is good
+l_General	1	no be quiet
+l_General	1	exit exit
+l_General	1	choose top right one
+l_General	1	finished with
+l_General	1	and after that
+l_General	1	read the page onscreen to me
+l_General	1	show me the next
+None	1	all of them
+q_Faq	1	How do I raise a bug
+q_Faq	1	What can the Calendar Skill do

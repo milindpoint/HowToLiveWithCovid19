@@ -1,0 +1,95 @@
+Label	Weight	Text
+l_General	1	go to the previous one
+l_General	1	please do nothing
+l_General	1	select no.5
+l_General	1	i like upper right
+l_General	1	i need to go to the next one
+l_General	1	select upper
+l_General	1	please read this out loud
+l_General	1	can you read that for me
+l_General	1	choose anyone
+l_General	1	i want neither of them
+l_General	1	what's next
+l_General	1	my god shut up
+l_General	1	never mind cancel
+l_General	1	read file aloud
+l_General	1	show previous
+l_General	1	very good
+l_General	1	it finished
+l_General	1	i want the first
+l_General	1	read sentence out loud
+l_General	1	fine
+l_General	1	what does the page say
+l_General	1	say again
+l_General	1	please read this page aloud
+l_General	1	that is correct
+l_General	1	choose one of it randomly
+l_General	1	select a random choice
+l_General	1	i want to choose right
+l_General	1	sounds good thank you
+l_General	1	i want the second one
+l_General	1	never mind cancel that
+l_General	1	neither
+l_General	1	any of it
+l_General	1	read the page
+l_General	1	back to last
+l_General	1	sorry, don't do it
+l_General	1	finished
+l_General	1	can you help
+l_General	1	exit stop
+l_General	1	negative
+l_General	1	god shut up
+l_General	1	not now
+l_General	1	that sounds good
+l_General	1	that's fine
+l_General	1	turn over a new leaf
+l_General	1	no no thank you
+l_General	1	oh yes
+l_General	1	detail aloud what that says
+l_General	1	is there any real person
+l_General	1	it's fine
+l_General	1	no thanks
+l_General	1	tell more
+l_General	1	no cancel
+l_General	1	go back to
+l_General	1	please read
+l_General	1	that right
+l_General	1	i mean stop listening
+l_General	1	sure
+l_General	1	please read this page
+l_General	1	say that again
+l_General	1	select any
+l_General	1	help
+l_General	1	show earlier
+l_General	1	more
+l_General	1	no no cancel it
+l_General	1	okay
+l_General	1	what about next one
+l_General	1	opt for the second choice
+l_General	1	what did you say
+l_General	1	tell me more
+l_General	1	opt for the last one
+l_General	1	start over
+l_General	1	go back on
+l_General	1	opt for right one
+l_General	1	i'm lily
+l_General	1	oh yeah
+l_General	1	i want to choose the fourth
+l_General	1	sounds good
+l_General	1	read it out loud
+l_General	1	nobody cares stop talking
+l_General	1	never
+l_General	1	i don't like it
+l_General	1	thank you yes
+l_General	1	show the next 3
+l_General	1	displays more
+l_General	1	oh no
+l_General	1	perfect
+l_General	1	choose last
+l_General	1	contact the customer service
+l_General	1	none of these
+l_General	1	no i don't want that
+l_General	1	i want to talk to a human
+None	1	all of them
+q_Faq	1	How do I raise a bug
+q_Faq	1	What can the Calendar Skill do

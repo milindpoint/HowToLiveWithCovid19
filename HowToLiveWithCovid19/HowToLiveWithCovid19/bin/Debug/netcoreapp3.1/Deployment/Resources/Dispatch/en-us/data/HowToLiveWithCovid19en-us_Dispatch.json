@@ -1,0 +1,60 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "l_General"
+    },
+    {
+      "name": "q_Faq"
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [],
+  "versionId": "Dispatch",
+  "name": "HowToLiveWithCovid19en-us_Dispatch",
+  "desc": "Dispatch model for HowToLiveWithCovid19en-us_Dispatch",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [
+    {
+      "name": "PersonName.Any",
+      "roles": [],
+      "explicitList": []
+    }
+  ],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "(it's|it is|this is) {PersonName.Any}[.]",
+      "intent": "l_General"
+    },
+    {
+      "pattern": "(i'm|i am) {PersonName.Any}[.]",
+      "intent": "l_General"
+    },
+    {
+      "pattern": "([you can]|[please]) call me {PersonName.Any}[.]",
+      "intent": "l_General"
+    },
+    {
+      "pattern": "my name is {PersonName.Any}[.]",
+      "intent": "l_General"
+    }
+  ],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    },
+    {
+      "name": "UseAllTrainingData",
+      "value": "true"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+Label	Weight	Text
+l_General	1	i need real human help
+l_General	1	is there any help
+l_General	1	please read it
+l_General	1	i need support
+l_General	1	choose the fourth one
+l_General	1	read what is currently on the screen to me
+l_General	1	human service
+l_General	1	baby just be quiet
+l_General	1	select the right one
+l_General	1	opt for the second
+l_General	1	they look bad, can you give me other choices
+l_General	1	yeah go ahead
+l_General	1	would you read that to me please
+l_General	1	i like the top right one
+l_General	1	read to me
+l_General	1	read the page to me
+l_General	1	read this page aloud
+l_General	1	none none
+l_General	1	no not that one
+l_General	1	none none of them
+l_General	1	cancel app
+l_General	1	it's alice anderson!
+l_General	1	what
+l_General	1	no cancel cancel
+l_General	1	cancelled
+l_General	1	opt for the left one
+l_General	1	i want to choose the left one
+l_General	1	show more
+l_General	1	go to the previous
+l_General	1	choose the upper left choice
+l_General	1	don't do that
+l_General	1	sign out
+l_General	1	go away
+l_General	1	forget me
+l_General	1	end it
+l_General	1	select third
+l_General	1	neither one of them
+l_General	1	back please
+l_General	1	i like the bottom one
+l_General	1	no leave it
+l_General	1	opt for left
+l_General	1	sure does
+l_General	1	choose no.2
+l_General	1	i want to choose the first one
+l_General	1	read page outloud
+l_General	1	right yes
+l_General	1	i want to choose bottom one
+l_General	1	logout
+l_General	1	i have not heard
+l_General	1	please read this
+l_General	1	read my to list
+l_General	1	thank you very much
+l_General	1	start again
+l_General	1	yeah
+l_General	1	anyone is fine
+l_General	1	move to the next one
+l_General	1	read it to me
+l_General	1	go for it
+l_General	1	no go back to
+l_General	1	read it outloud
+l_General	1	go back to last one
+l_General	1	previous one
+l_General	1	i want to choose second one
+l_General	1	i like second one
+l_General	1	not right now
+l_General	1	no doubt
+l_General	1	read that out loud
+l_General	1	no
+l_General	1	choose the upper right one
+l_General	1	i am finished
+l_General	1	neither one
+l_General	1	read text aloud
+l_General	1	i am done
+l_General	1	i reject
+l_General	1	nothing much
+l_General	1	back
+l_General	1	is there any person i can talk to
+l_General	1	no no cancel
+l_General	1	tell me about the information on the screen
+l_General	1	neither of those
+l_General	1	would you please read that for me
+l_General	1	start over it
+l_General	1	go back to the last one
+l_General	1	i like the upper right
+l_General	1	cancel never mind
+l_General	1	no no no
+l_General	1	right
+l_General	1	how to do it
+l_General	1	no cancel that
+l_General	1	any one is ok
+l_General	1	get back
+l_General	1	what is the previous
+l_General	1	i need some help
+l_General	1	read this page to me
+l_General	1	i want to talk to a real human
+l_General	1	show the next one
+l_General	1	be quiet now
+l_General	1	all finished
+l_General	1	oh my god shut up
+l_General	1	canceled
+l_General	1	show me the previous one
+l_General	1	nowhere just be quiet
+l_General	1	tell me the current text on screen
+l_General	1	read aloud the current text onscreen
+l_General	1	please read me the page
+l_General	1	read it
+l_General	1	return
+l_General	1	it's done
+l_General	1	sure yes
+l_General	1	dismiss
+l_General	1	i want the fourth choice
+l_General	1	i want to choose lower right
+l_General	1	make a reading of this page
+l_General	1	i want more
+l_General	1	i want the left
+l_General	1	speak of what is on this page
+l_General	1	sorry
+l_General	1	last step
+l_General	1	choose last one
+l_General	1	is there any real human
+l_General	1	this is john w.smith .
+l_General	1	shut up quiet
+l_General	1	give me some help
+l_General	1	read this page
+l_General	1	give me more
+l_General	1	can i talk to a person
+l_General	1	done
+l_General	1	pardon
+l_General	1	bring the previous one
+l_General	1	nope
+l_General	1	quiet
+l_General	1	opt for any of it
+l_General	1	ok
+l_General	1	ya
+l_General	1	read the words on this page
+l_General	1	submit
+l_General	1	select a random one
+l_General	1	i don't want to select any one
+l_General	1	turn off
+l_General	1	never mind stop
+l_General	1	restart
+l_General	1	say again please
+l_General	1	i want bottom
+l_General	1	read outloud
+l_General	1	all set
+l_General	1	i like the third
+l_General	1	just be quiet
+l_General	1	submit it
+l_General	1	opt for last
+l_General	1	not
+l_General	1	i want to choose the lower choice
+l_General	1	sure is
+l_General	1	finish
+l_General	1	get back please
+l_General	1	ok stop stop
+l_General	1	i like the third choice
+l_General	1	go back
+l_General	1	please begin again
+l_General	1	read the page out loud
+l_General	1	nothing please
+l_General	1	i want right one
+l_General	1	confirm
+l_General	1	none of those
+l_General	1	please return
+l_General	1	opt for first one
+l_General	1	yeah good
+l_General	1	no later
+l_General	1	i like second
+l_General	1	choose the first choice
+l_General	1	start reading this
+l_General	1	not exactly
+l_General	1	i don't want to choose any one
+l_General	1	go back please
+l_General	1	show the next two options
+l_General	1	reveal previous
+l_General	1	read text
+l_General	1	shut your mouth
+l_General	1	who can help me
+l_General	1	neither thank you
+l_General	1	go to the next three items
+l_General	1	no never mind
+l_General	1	select fourth one
+l_General	1	shut up be quiet
+l_General	1	repeat please
+l_General	1	select lower one
+l_General	1	get back to the last one
+l_General	1	please help
+l_General	1	read this page out loud
+l_General	1	choose the bottom left
+l_General	1	can you read it
+l_General	1	cancel it
+l_General	1	again
+l_General	1	forget about it
+l_General	1	i would like you to read that for me
+l_General	1	i need to hear this page
+l_General	1	i want the right one
+l_General	1	choose top right
+l_General	1	i didn't hear repeat again
+l_General	1	cancel cancel
+l_General	1	log out
+l_General	1	no stop
+l_General	1	come on stop
+l_General	1	i want to choose the right
+l_General	1	can you read that
+l_General	1	no no no no stop talking
+l_General	1	read me this page
+l_General	1	ok for now
+l_General	1	what's up next
+l_General	1	just cancel
+l_General	1	i'm john jackson.
+l_General	1	back to last step
+l_General	1	it's finished
+l_General	1	no no
+l_General	1	nothing never mind
+l_General	1	cancel that
+l_General	1	read aloud
+l_General	1	opt for the lower choice
+l_General	1	reject it
+l_General	1	back to
+l_General	1	please read this page out loud
+l_General	1	i said stop
+l_General	1	select the lower one
+l_General	1	read it aloud
+l_General	1	can you help me
+l_General	1	clear and start again
+l_General	1	get back to last
+l_General	1	what's more
+l_General	1	what before that
+l_General	1	opt for a random one
+l_General	1	perfect thank you
+l_General	1	i need some assist
+l_General	1	select the last choice
+l_General	1	do it
+l_General	1	i want none of them
+l_General	1	contact support
+l_General	1	previous one please
+l_General	1	go to the next one
+l_General	1	read that
+l_General	1	sounds great
+l_General	1	none of them thank you
+l_General	1	of course
+l_General	1	quit
+l_General	1	open help
+l_General	1	no way
+l_General	1	back to the last one
+l_General	1	anything
+l_General	1	customer service
+l_General	1	no more no
+l_General	1	turn off stop
+l_General	1	just be
+l_General	1	return to the previous one
+l_General	1	please read my latest email
+l_General	1	start it over
+l_General	1	hey stop
+l_General	1	sounds perfect
+l_General	1	shut up
+l_General	1	go back to previous
+l_General	1	not quite
+l_General	1	show the next 4 items
+l_General	1	go forward
+l_General	1	read this for me please
+l_General	1	it is jackson .
+l_General	1	read it please
+l_General	1	go previously
+l_General	1	i want the lower choice
+l_General	1	i need manual customer service
+l_General	1	no no go back to
+l_General	1	reject
+l_General	1	please read this to me
+l_General	1	vocalize what s on the page
+l_General	1	i love you to stop talking
+l_General	1	oh cancel
+l_General	1	restart it
+l_General	1	go to the previous one
+l_General	1	please do nothing
+l_General	1	select no.5
+l_General	1	i like upper right
+l_General	1	i need to go to the next one
+l_General	1	select upper
+l_General	1	please read this out loud
+l_General	1	can you read that for me
+l_General	1	choose anyone
+l_General	1	i want neither of them
+l_General	1	what's next
+l_General	1	my god shut up
+l_General	1	never mind cancel
+l_General	1	read file aloud
+l_General	1	show previous
+l_General	1	very good
+l_General	1	it finished
+l_General	1	i want the first
+l_General	1	read sentence out loud
+l_General	1	fine
+l_General	1	what does the page say
+l_General	1	say again
+l_General	1	please read this page aloud
+l_General	1	that is correct
+l_General	1	choose one of it randomly
+l_General	1	select a random choice
+l_General	1	i want to choose right
+l_General	1	sounds good thank you
+l_General	1	i want the second one
+l_General	1	never mind cancel that
+l_General	1	neither
+l_General	1	any of it
+l_General	1	read the page
+l_General	1	back to last
+l_General	1	sorry, don't do it
+l_General	1	finished
+l_General	1	can you help
+l_General	1	exit stop
+l_General	1	negative
+l_General	1	god shut up
+l_General	1	not now
+l_General	1	that sounds good
+l_General	1	that's fine
+l_General	1	turn over a new leaf
+l_General	1	no no thank you
+l_General	1	oh yes
+l_General	1	detail aloud what that says
+l_General	1	is there any real person
+l_General	1	it's fine
+l_General	1	no thanks
+l_General	1	tell more
+l_General	1	no cancel
+l_General	1	go back to
+l_General	1	please read
+l_General	1	that right
+l_General	1	i mean stop listening
+l_General	1	sure
+l_General	1	please read this page
+l_General	1	say that again
+l_General	1	select any
+l_General	1	help
+l_General	1	show earlier
+l_General	1	more
+l_General	1	no no cancel it
+l_General	1	okay
+l_General	1	what about next one
+l_General	1	opt for the second choice
+l_General	1	what did you say
+l_General	1	tell me more
+l_General	1	opt for the last one
+l_General	1	start over
+l_General	1	go back on
+l_General	1	opt for right one
+l_General	1	i'm lily
+l_General	1	oh yeah
+l_General	1	i want to choose the fourth
+l_General	1	sounds good
+l_General	1	read it out loud
+l_General	1	nobody cares stop talking
+l_General	1	never
+l_General	1	i don't like it
+l_General	1	thank you yes
+l_General	1	show the next 3
+l_General	1	displays more
+l_General	1	oh no
+l_General	1	perfect
+l_General	1	choose last
+l_General	1	contact the customer service
+l_General	1	none of these
+l_General	1	no i don't want that
+l_General	1	i want to talk to a human
+None	1	i want them all
+None	1	i want to all of them
+None	1	start
+q_Faq	1	What's New
+q_Faq	1	What can the Point of Interest Skill do
+q_Faq	1	What is a Skill
+q_Faq	1	What can the Email Skill do
+q_Faq	1	What is a Virtual Assistant
+q_Faq	1	What can the ToDo Skill do

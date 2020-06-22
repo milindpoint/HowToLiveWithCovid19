@@ -1,0 +1,40 @@
+{
+  "authoringRegion": "westeurope",
+  "culture": "en-us",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_General",
+      "appId": "26db1814-336a-49ab-824e-e864bbd0b852",
+      "authoringKey": "776329e370264ed492b33ab7bfecde27",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "HowToLiveWithCovid19en-us_General",
+      "id": "1"
+    },
+    {
+      "intentName": "q_Faq",
+      "includePrompts": true,
+      "kbId": "5b42688d-cf46-4d3a-9816-952a96e476b2",
+      "subscriptionKey": "b07fc15c66fd40d2bc031b9776971cd7",
+      "type": "qna",
+      "name": "Faq",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "3762eb86-b889-4bd4-81cc-3e7af0a01aa6",
+  "authoringKey": "776329e370264ed492b33ab7bfecde27",
+  "version": "Dispatch",
+  "region": "westeurope",
+  "type": "dispatch",
+  "name": "HowToLiveWithCovid19en-us_Dispatch"
+}

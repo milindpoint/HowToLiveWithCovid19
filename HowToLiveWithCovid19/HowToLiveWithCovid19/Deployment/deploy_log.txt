@@ -1,0 +1,622 @@
+{
+  "error": null,
+  "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Resources/deployments/template",
+  "name": "template",
+  "properties": {
+    "correlationId": "3c43e68e-d6d6-4544-91c5-390fa84a9eda",
+    "debugSetting": null,
+    "dependencies": [
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.DocumentDB/databaseAccounts/howtolivewithcovid19d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "howtolivewithcovid19d6gy72k",
+            "resourceType": "Microsoft.DocumentDB/databaseAccounts"
+          }
+        ],
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.DocumentDB/databaseAccounts/howtolivewithcovid19d6gy72k/sqlDatabases/botstate-db",
+        "resourceGroup": "HowToLiveWithCovid19",
+        "resourceName": "howtolivewithcovid19d6gy72k/botstate-db",
+        "resourceType": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/serverfarms/HowToLiveWithCovid19-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "HowToLiveWithCovid19-d6gy72k",
+            "resourceType": "Microsoft.Web/serverfarms"
+          }
+        ],
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/sites/HowToLiveWithCovid19-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19",
+        "resourceName": "HowToLiveWithCovid19-d6gy72k",
+        "resourceType": "Microsoft.Web/sites"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/sites/HowToLiveWithCovid19-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "HowToLiveWithCovid19-d6gy72k",
+            "resourceType": "Microsoft.Web/sites"
+          },
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Insights/components/HowToLiveWithCovid19-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "HowToLiveWithCovid19-d6gy72k",
+            "resourceType": "Microsoft.Insights/components"
+          }
+        ],
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.BotService/botServices/HowToLiveWithCovid19-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19",
+        "resourceName": "HowToLiveWithCovid19-d6gy72k",
+        "resourceType": "Microsoft.BotService/botServices"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.CognitiveServices/accounts/HowToLiveWithCovid19-luisruntime-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "HowToLiveWithCovid19-luisruntime-d6gy72k",
+            "resourceType": "Microsoft.CognitiveServices/accounts"
+          }
+        ],
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.CognitiveServices/accounts/HowToLiveWithCovid19-luisauthoring-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19",
+        "resourceName": "HowToLiveWithCovid19-luisauthoring-d6gy72k",
+        "resourceType": "Microsoft.CognitiveServices/accounts"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/Sites/HowToLiveWithCovid19-qnahost-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "HowToLiveWithCovid19-qnahost-d6gy72k",
+            "resourceType": "Microsoft.Web/Sites"
+          },
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Search/searchServices/howtolivewithcovid19-search-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "howtolivewithcovid19-search-d6gy72k",
+            "resourceType": "Microsoft.Search/searchServices"
+          },
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/microsoft.insights/components/HowToLiveWithCovid19-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "HowToLiveWithCovid19-d6gy72k",
+            "resourceType": "microsoft.insights/components"
+          }
+        ],
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.CognitiveServices/accounts/HowToLiveWithCovid19-qna-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19",
+        "resourceName": "HowToLiveWithCovid19-qna-d6gy72k",
+        "resourceType": "Microsoft.CognitiveServices/accounts"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/serverFarms/HowToLiveWithCovid19-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "HowToLiveWithCovid19-d6gy72k",
+            "resourceType": "Microsoft.Web/serverFarms"
+          }
+        ],
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/sites/HowToLiveWithCovid19-qnahost-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19",
+        "resourceName": "HowToLiveWithCovid19-qnahost-d6gy72k",
+        "resourceType": "Microsoft.Web/sites"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/Sites/HowToLiveWithCovid19-qnahost-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "HowToLiveWithCovid19-qnahost-d6gy72k",
+            "resourceType": "Microsoft.Web/Sites"
+          },
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Insights/components/HowToLiveWithCovid19-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "HowToLiveWithCovid19-d6gy72k",
+            "resourceType": "Microsoft.Insights/components"
+          },
+          {
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Search/searchServices/howtolivewithcovid19-search-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "howtolivewithcovid19-search-d6gy72k",
+            "resourceType": "Microsoft.Search/searchServices"
+          },
+          {
+            "actionName": "listAdminKeys",
+            "apiVersion": "2015-08-19",
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Search/searchServices/howtolivewithcovid19-search-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "howtolivewithcovid19-search-d6gy72k",
+            "resourceType": "Microsoft.Search/searchServices"
+          },
+          {
+            "apiVersion": "2015-05-01",
+            "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Insights/components/HowToLiveWithCovid19-d6gy72k",
+            "resourceGroup": "HowToLiveWithCovid19",
+            "resourceName": "HowToLiveWithCovid19-d6gy72k",
+            "resourceType": "Microsoft.Insights/components"
+          }
+        ],
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/sites/HowToLiveWithCovid19-qnahost-d6gy72k/config/appsettings",
+        "resourceGroup": "HowToLiveWithCovid19",
+        "resourceName": "HowToLiveWithCovid19-qnahost-d6gy72k/appsettings",
+        "resourceType": "Microsoft.Web/sites/config"
+      }
+    ],
+    "duration": "PT0S",
+    "mode": "Incremental",
+    "onErrorDeployment": null,
+    "outputs": null,
+    "parameters": {
+      "appInsightsLocation": {
+        "type": "String",
+        "value": "westeurope"
+      },
+      "appInsightsName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-d6gy72k"
+      },
+      "appServicePlanName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-d6gy72k"
+      },
+      "appServicePlanSku": {
+        "type": "Object",
+        "value": {
+          "name": "S1",
+          "tier": "Standard"
+        }
+      },
+      "botServiceName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-d6gy72k"
+      },
+      "botServiceSku": {
+        "type": "String",
+        "value": "S1"
+      },
+      "botWebAppName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-d6gy72k"
+      },
+      "contentModeratorLocation": {
+        "type": "String",
+        "value": "westeurope"
+      },
+      "contentModeratorName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-cm-d6gy72k"
+      },
+      "contentModeratorSku": {
+        "type": "String",
+        "value": "S0"
+      },
+      "cosmosDbDatabaseName": {
+        "type": "String",
+        "value": "botstate-db"
+      },
+      "cosmosDbDatabaseThroughput": {
+        "type": "Int",
+        "value": 400
+      },
+      "cosmosDbName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-d6gy72k"
+      },
+      "location": {
+        "type": "String",
+        "value": "westeurope"
+      },
+      "luisAuthoringLocation": {
+        "type": "String",
+        "value": "westeurope"
+      },
+      "luisAuthoringName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-luisauthoring-d6gy72k"
+      },
+      "luisAuthoringSku": {
+        "type": "String",
+        "value": "F0"
+      },
+      "luisRuntimeLocation": {
+        "type": "String",
+        "value": "westeurope"
+      },
+      "luisRuntimeName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-luisruntime-d6gy72k"
+      },
+      "luisRuntimeSku": {
+        "type": "String",
+        "value": "S0"
+      },
+      "microsoftAppId": {
+        "type": "String",
+        "value": "cd392093-5076-4989-9fc2-584a6fe0f846"
+      },
+      "microsoftAppPassword": {
+        "type": "String",
+        "value": ""
+      },
+      "name": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19"
+      },
+      "qnaMakerSearchLocation": {
+        "type": "String",
+        "value": "westeurope"
+      },
+      "qnaMakerSearchName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-search-d6gy72k"
+      },
+      "qnaMakerSearchSku": {
+        "type": "String",
+        "value": "standard"
+      },
+      "qnaMakerServiceLocation": {
+        "type": "String",
+        "value": "westus"
+      },
+      "qnaMakerServiceName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-qna-d6gy72k"
+      },
+      "qnaMakerServiceSku": {
+        "type": "String",
+        "value": "S0"
+      },
+      "qnaMakerWebAppLocation": {
+        "type": "String",
+        "value": "westeurope"
+      },
+      "qnaMakerWebAppName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-qnahost-d6gy72k"
+      },
+      "resourceTagName": {
+        "type": "String",
+        "value": "bot"
+      },
+      "resourceTagValue": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-d6gy72k"
+      },
+      "storageAccountName": {
+        "type": "String",
+        "value": "HowToLiveWithCovid19-d6gy72k"
+      },
+      "suffix": {
+        "type": "String",
+        "value": "d6gy72k"
+      },
+      "useContentModerator": {
+        "type": "Bool",
+        "value": true
+      },
+      "useCosmosDb": {
+        "type": "Bool",
+        "value": true
+      },
+      "useLuisAuthoring": {
+        "type": "Bool",
+        "value": true
+      },
+      "useStorage": {
+        "type": "Bool",
+        "value": true
+      }
+    },
+    "parametersLink": null,
+    "providers": [
+      {
+        "id": null,
+        "namespace": "Microsoft.Resources",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              null
+            ],
+            "properties": null,
+            "resourceType": "deployments"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.DocumentDB",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "westeurope"
+            ],
+            "properties": null,
+            "resourceType": "databaseAccounts"
+          },
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              null
+            ],
+            "properties": null,
+            "resourceType": "databaseAccounts/sqlDatabases"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Storage",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "westeurope"
+            ],
+            "properties": null,
+            "resourceType": "storageAccounts"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Web",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "westeurope"
+            ],
+            "properties": null,
+            "resourceType": "serverFarms"
+          },
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "westeurope"
+            ],
+            "properties": null,
+            "resourceType": "sites"
+          },
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              null
+            ],
+            "properties": null,
+            "resourceType": "sites/config"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Insights",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "westeurope"
+            ],
+            "properties": null,
+            "resourceType": "components"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.BotService",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "global"
+            ],
+            "properties": null,
+            "resourceType": "botServices"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.CognitiveServices",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "westeurope",
+              "westus"
+            ],
+            "properties": null,
+            "resourceType": "accounts"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Search",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "westeurope"
+            ],
+            "properties": null,
+            "resourceType": "searchServices"
+          }
+        ]
+      }
+    ],
+    "provisioningState": "Succeeded",
+    "template": null,
+    "templateHash": "13237030577887299400",
+    "templateLink": null,
+    "timestamp": "2020-06-18T21:22:16.082281+00:00",
+    "validatedResources": [
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Resources/deployments/3822b5f4-d098-4b57-9ee6-3bee686aec4c",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.DocumentDB/databaseAccounts/howtolivewithcovid19d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.DocumentDB/databaseAccounts/howtolivewithcovid19d6gy72k/sqlDatabases/botstate-db",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Storage/storageAccounts/howtolivewithcovid19d6gy",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/serverFarms/HowToLiveWithCovid19-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Insights/components/HowToLiveWithCovid19-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/sites/HowToLiveWithCovid19-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.BotService/botServices/HowToLiveWithCovid19-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.CognitiveServices/accounts/HowToLiveWithCovid19-cm-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.CognitiveServices/accounts/HowToLiveWithCovid19-luisruntime-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.CognitiveServices/accounts/HowToLiveWithCovid19-luisauthoring-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.CognitiveServices/accounts/HowToLiveWithCovid19-qna-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Search/searchServices/howtolivewithcovid19-search-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/sites/HowToLiveWithCovid19-qnahost-d6gy72k",
+        "resourceGroup": "HowToLiveWithCovid19"
+      },
+      {
+        "id": "/subscriptions/ee0a2b94-8dfb-4a6f-9736-4c2caf348814/resourceGroups/HowToLiveWithCovid19/providers/Microsoft.Web/sites/HowToLiveWithCovid19-qnahost-d6gy72k/config/appsettings",
+        "resourceGroup": "HowToLiveWithCovid19"
+      }
+    ]
+  },
+  "resourceGroup": "HowToLiveWithCovid19",
+  "type": "Microsoft.Resources/deployments"
+}
+{
+  "applicationInsights": {
+    "type": "Object",
+    "value": {
+      "InstrumentationKey": "dc5d2c0e-bef1-4066-8d60-ec180f130d59"
+    }
+  },
+  "blobStorage": {
+    "type": "Object",
+    "value": {
+      "connectionString": "DefaultEndpointsProtocol=https;AccountName=howtolivewithcovid19d6gy;AccountKey=HgBwMhYMFxrFPNKlv9vXhqATZr9sSicOZjrr6G5ej3BbjnBa0LE4AJTahQQe8rUndfdxrdGs5XuMMTNpu7msTA==;EndpointSuffix=core.windows.net",
+      "container": "transcripts"
+    }
+  },
+  "botWebAppName": {
+    "type": "String",
+    "value": "HowToLiveWithCovid19-d6gy72k"
+  },
+  "contentModerator": {
+    "type": "Object",
+    "value": {
+      "key": "e1f2b3cbcad64e9fb80427bf5873b800"
+    }
+  },
+  "cosmosDb": {
+    "type": "Object",
+    "value": {
+      "authKey": "DTLmu633G6AHVTSlc3GD9uDVgdBFZKKh2aPu1ZK783YaQLHEEkwfWLMKzJo0Q2VySH2YddTzCXjOghDHRPZXfQ==",
+      "containerId": "HowToLiveWithCovid19-state",
+      "cosmosDBEndpoint": "https://howtolivewithcovid19d6gy72k.documents.azure.com:443/",
+      "databaseId": "botstate-db"
+    }
+  },
+  "luis": {
+    "type": "Object",
+    "value": {
+      "accountName": "HowToLiveWithCovid19-luisruntime-d6gy72k",
+      "authoringKey": "776329e370264ed492b33ab7bfecde27",
+      "authoringRegion": "westeurope",
+      "endpoint": "https://howtolivewithcovid19-luisauthoring-d6gy72k.cognitiveservices.azure.com/",
+      "key": "395b506a480d4a1a8a8e55075c15b54c",
+      "region": "westeurope"
+    }
+  },
+  "qnaMaker": {
+    "type": "Object",
+    "value": {
+      "endpoint": "https://howtolivewithcovid19-qnahost-d6gy72k.azurewebsites.net",
+      "key": "b07fc15c66fd40d2bc031b9776971cd7"
+    }
+  },
+  "resourceGroupName": {
+    "type": "String",
+    "value": "HowToLiveWithCovid19"
+  }
+}

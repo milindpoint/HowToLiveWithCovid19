@@ -1,0 +1,95 @@
+Label	Weight	Text
+l_General	1	what is the previous
+l_General	1	i need some help
+l_General	1	read this page to me
+l_General	1	i want to talk to a real human
+l_General	1	show the next one
+l_General	1	be quiet now
+l_General	1	all finished
+l_General	1	oh my god shut up
+l_General	1	canceled
+l_General	1	show me the previous one
+l_General	1	nowhere just be quiet
+l_General	1	tell me the current text on screen
+l_General	1	read aloud the current text onscreen
+l_General	1	please read me the page
+l_General	1	read it
+l_General	1	return
+l_General	1	it's done
+l_General	1	sure yes
+l_General	1	dismiss
+l_General	1	i want the fourth choice
+l_General	1	i want to choose lower right
+l_General	1	make a reading of this page
+l_General	1	i want more
+l_General	1	i want the left
+l_General	1	speak of what is on this page
+l_General	1	sorry
+l_General	1	last step
+l_General	1	choose last one
+l_General	1	is there any real human
+l_General	1	this is john w.smith .
+l_General	1	shut up quiet
+l_General	1	give me some help
+l_General	1	read this page
+l_General	1	give me more
+l_General	1	can i talk to a person
+l_General	1	done
+l_General	1	pardon
+l_General	1	bring the previous one
+l_General	1	nope
+l_General	1	quiet
+l_General	1	opt for any of it
+l_General	1	ok
+l_General	1	ya
+l_General	1	read the words on this page
+l_General	1	submit
+l_General	1	select a random one
+l_General	1	i don't want to select any one
+l_General	1	turn off
+l_General	1	never mind stop
+l_General	1	restart
+l_General	1	say again please
+l_General	1	i want bottom
+l_General	1	read outloud
+l_General	1	all set
+l_General	1	i like the third
+l_General	1	just be quiet
+l_General	1	submit it
+l_General	1	opt for last
+l_General	1	not
+l_General	1	i want to choose the lower choice
+l_General	1	sure is
+l_General	1	finish
+l_General	1	get back please
+l_General	1	ok stop stop
+l_General	1	i like the third choice
+l_General	1	go back
+l_General	1	please begin again
+l_General	1	read the page out loud
+l_General	1	nothing please
+l_General	1	i want right one
+l_General	1	confirm
+l_General	1	none of those
+l_General	1	please return
+l_General	1	opt for first one
+l_General	1	yeah good
+l_General	1	no later
+l_General	1	i like second
+l_General	1	choose the first choice
+l_General	1	start reading this
+l_General	1	not exactly
+l_General	1	i don't want to choose any one
+l_General	1	go back please
+l_General	1	show the next two options
+l_General	1	reveal previous
+l_General	1	read text
+l_General	1	shut your mouth
+l_General	1	who can help me
+l_General	1	neither thank you
+l_General	1	go to the next three items
+l_General	1	no never mind
+l_General	1	select fourth one
+None	1	i want to all of them
+q_Faq	1	What is a Skill
+q_Faq	1	What can the Email Skill do

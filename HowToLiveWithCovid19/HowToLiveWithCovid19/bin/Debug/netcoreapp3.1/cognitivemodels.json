@@ -1,0 +1,47 @@
+{
+  "defaultLocale": "en-us",
+  "cognitiveModels": {
+    "en-us": {
+      "dispatchModel": {
+        "region": "westeurope",
+        "subscriptionkey": "395b506a480d4a1a8a8e55075c15b54c",
+        "type": "dispatch",
+        "version": "Dispatch",
+        "authoringRegion": "westeurope",
+        "appid": "3762eb86-b889-4bd4-81cc-3e7af0a01aa6",
+        "name": "HowToLiveWithCovid19en-us_Dispatch",
+        "authoringkey": "776329e370264ed492b33ab7bfecde27"
+      },
+      "languageModels": [
+        {
+          "region": "westeurope",
+          "subscriptionkey": "395b506a480d4a1a8a8e55075c15b54c",
+          "endpoint": "https://howtolivewithcovid19-luisauthoring-d6gy72k.cognitiveservices.azure.com/",
+          "appid": "26db1814-336a-49ab-824e-e864bbd0b852",
+          "version": "0.1",
+          "id": "General",
+          "name": "HowToLiveWithCovid19en-us_General",
+          "authoringkey": "776329e370264ed492b33ab7bfecde27"
+        }
+      ],
+      "knowledgebases": [
+        {
+          "name": "Chitchat",
+          "kbId": "6a2826e2-b0a3-4afa-bb72-5203e2f636b5",
+          "subscriptionKey": "b07fc15c66fd40d2bc031b9776971cd7",
+          "hostname": "https://howtolivewithcovid19-qnahost-d6gy72k.azurewebsites.net",
+          "id": "Chitchat",
+          "endpointKey": "3ecddc9a-7359-49c0-9148-d2aaa2357ef1"
+        },
+        {
+          "name": "Faq",
+          "kbId": "5b42688d-cf46-4d3a-9816-952a96e476b2",
+          "subscriptionKey": "b07fc15c66fd40d2bc031b9776971cd7",
+          "hostname": "https://howtolivewithcovid19-qnahost-d6gy72k.azurewebsites.net",
+          "id": "Faq",
+          "endpointKey": "3ecddc9a-7359-49c0-9148-d2aaa2357ef1"
+        }
+      ]
+    }
+  }
+}

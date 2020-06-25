@@ -7,3 +7,8 @@ See this BOT in action at https://www.howtolivewithcovid19.com
 <h3>Architecture:</h3>
 
 <img src="https://howtolivewithcovid19.com/wp-content/uploads/2020/06/Architecture-1024x520.png"/>
+
+<h3>Gallery:<h3>
+  <h5>Bot responding safe hibits to follow during COVID-19 with image</h5>
+  <br/>
+  <img src="https://howtolivewithcovid19.com/wp-content/uploads/2020/06/demo.png"/>
